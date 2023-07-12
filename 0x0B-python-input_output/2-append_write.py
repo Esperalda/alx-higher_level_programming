@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Defines a file-appending function."""
 
 def read_lines(filename="", nb_lines=0):
     """ function that reads n lines of a text file (UTF8) and prints it
